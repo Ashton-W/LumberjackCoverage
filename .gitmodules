@@ -1,0 +1,6 @@
+[submodule "CocoaLumberjack"]
+	path = CocoaLumberjack
+	url = git@github.com:CocoaLumberjack/CocoaLumberjack.git
+[submodule "gcovr"]
+	path = gcovr
+	url = git@github.com:gcovr/gcovr.git
